@@ -7,7 +7,7 @@
 
 - **React + TypeScript**
 - **Vite** (шаблон)
-- **React Router v6.22** (`react-router`, `react-router-dom`)
+- **React Router** (`react-router`)
 - **createBrowserRouter** + **RouterProvider**
 - **NavLink** для активних посилань
 - **useNavigate** для програмного перемикання маршрутів
@@ -76,7 +76,7 @@ npm run dev
 
 ## Демо
 
-[Розгорнуто на Vercel](лінк)
+[Розгорнуто на Vercel](https://fullstack-hw43-react-router.vercel.app/)
 
 
 ## Примітки
